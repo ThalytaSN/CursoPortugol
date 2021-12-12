@@ -1,0 +1,22 @@
+Exemplo 3
+
+Algoritmo "calculadora de soma"
+// rotina que converte um determinado valor em reais em dólares
+Var
+     a, b, c, media: real
+
+Inicio
+
+	escreval ("boa tarde! Coloque os três números que deseja somar")
+	escreval ("qual valor de a")
+	leia   (a)
+	escreval ("qual valor de b")
+   leia (b)
+   escreval ("qual valor de c")
+   leia (c)
+   media <- ((a + b + c)/ 3))
+
+      escreval  ("O valor é: ",media)
+   
+
+Fimalgoritmo
